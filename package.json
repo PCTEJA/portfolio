@@ -1,0 +1,20 @@
+{
+  "name": "teja_portfolio",
+  "version": "1.0.0",
+  "description": "Teja's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pcteja",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCTEJA/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PCTEJA/portfolio/issues"
+  },
+  "homepage": "https://github.com/PCTEJA/portfolio#readme"
+}
